@@ -2,7 +2,7 @@
 
 **Software engineering & technical education · Forward-deployed engineering · Perth, Western Australia**
 
-[LinkedIn](https://www.linkedin.com/in/ejoe/) · [Professional background](https://2025.triple-e-awards.com/finalist/id/1082) · [Project and deployment enquiries](mailto:eozoe2025@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ejoe/) · [Project and deployment enquiries](mailto:eozoe2025@gmail.com)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
